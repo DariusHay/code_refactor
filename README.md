@@ -12,7 +12,7 @@ This Assignment was a refactoring assaignment where the HTML was made more acces
 2. [Deployed App](#Deployed)
 4. [Questions](#Questions)
 
-## InstalLation
+## Installation
 
 "HTML", "CSS"
 
